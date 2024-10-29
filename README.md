@@ -19,7 +19,7 @@ I'm a graphic desinger and web frontend developer
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=shin-coder&count_private=true&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shin-coder&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shin-coder&layout=compact&theme=dracula" />
 </a>
 
 
