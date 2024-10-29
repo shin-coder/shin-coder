@@ -1,6 +1,6 @@
 # About me
 My name is Shin
-I'm a graphic desinger and web frontend developer
+I'm a graphic desinger and coder
 
 ## Tech Stack
 - **Lnguage**<br>
