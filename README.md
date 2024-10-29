@@ -1,7 +1,8 @@
-# Welcome to my GitHub page!
+# ABOUT ME
 
-I'm Shinnosuke Kawaguchi.
-I work for a design company in Tokyo doing graphic design and coding work.
+- **NAME**:Shinnosuke Kawaguchi
+- **DATE OF BIRTH**:1993/03/03
+- **From**:Chiba
 
 ## Skills
 - **Languages**: HTML/CSS, JavaScript, PHP(WordPress)
