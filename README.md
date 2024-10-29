@@ -16,10 +16,10 @@ I'm a graphic desinger and web frontend developer
 
 ## About Me
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=shin-coder&count_private=true&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=shin-coder&count_private=true&theme=github_dark" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shin-coder&layout=compact&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shin-coder&layout=compact&theme=github_dark" />
 </a>
 
 
