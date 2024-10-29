@@ -6,7 +6,7 @@ I'm a graphic desinger and web frontend developer
 - **Lnguage**<br>
 
 ![](https://skillicons.dev/icons?i=html,css,js,php)
-- **Library&FrameWork**<br>
+- **Library & FrameWork**<br>
 
 ![](https://skillicons.dev/icons?i=threejs,sass,tailwind,wordpress,nextjs,astro)
 - **Tool**<br>
