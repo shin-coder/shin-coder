@@ -4,13 +4,13 @@ I'm a graphic desinger and web frontend developer
 
 ## Tech Stack
 - **Lnguage**<br>
-<span>
+<br>
 ![](https://skillicons.dev/icons?i=html,css,js,php)
 - **Library&FrameWork**<br>
-<span>
+<br>
 ![](https://skillicons.dev/icons?i=threejs,sass,tailwind,wordpress,nextjs,astro)
 - **Tool**<br>
-<span>
+<br>
 ![](https://skillicons.dev/icons?i=figma,ps,ai)
 - **Other**: Swiper, GSAP
 
