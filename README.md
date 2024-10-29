@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hello, I'm Shinnosuke Kawaguchi! 
+
+I work for a design company in Tokyo doing graphic design and coding work.
 
 <!--
 **shin-coder/shin-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
