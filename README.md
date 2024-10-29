@@ -6,11 +6,12 @@ I'm a graphic desinger and web frontend developer
 ![](https://skillicons.dev/icons?i=html,css,js,php,threejs,sass,tailwind,wordpress,nextjs,astro,npm,figma,ps,ai)
 - **Other**: Swiper, GSAP
 
+## About Me
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zizi4n5&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=shin-coder&count_private=true&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shin-coder&layout=compact" />
 </a>
 
 
