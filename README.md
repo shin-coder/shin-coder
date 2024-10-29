@@ -1,8 +1,8 @@
 # ABOUT ME
 
-- **NAME**:Shinnosuke Kawaguchi
-- **DATE OF BIRTH**:1993/03/03
-- **From**:Chiba
+- **Name**: Shinnosuke Kawaguchi
+- **Birth**: 1993/03/03
+- **From**: Chiba
 
 ## Skills
 - **Languages**: HTML/CSS, JavaScript, PHP(WordPress)
