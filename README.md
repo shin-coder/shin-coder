@@ -3,7 +3,12 @@ My name is Shin
 I'm a graphic desinger and web frontend developer
 
 ## Tech Stack
-![](https://skillicons.dev/icons?i=html,css,js,php,threejs,sass,tailwind,wordpress,nextjs,astro,npm,figma,ps,ai)
+- **Lnguage**
+![](https://skillicons.dev/icons?i=html,css,js,php)
+- **Library&FrameWork**
+![](https://skillicons.dev/icons?i=threejs,sass,tailwind,wordpress,nextjs,astro)
+- **Tool**
+![](https://skillicons.dev/icons?i=figma,ps,ai)
 - **Other**: Swiper, GSAP
 
 ## About Me
