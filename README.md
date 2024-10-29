@@ -1,15 +1,19 @@
-# ABOUT ME
+# About me
+My name is Shin
+I'm a graphic desinger and web frontend developer
 
-- **Name**: Shinnosuke Kawaguchi
-- **Birth**: 1993/03/03
-- **From**: Chiba
+## Tech Stack
+![](https://skillicons.dev/icons?i=html,css,js,php,threejs,sass,tailwind,wordpress,nextjs,astro,npm,figma,ps,ai)
+- **Other**: Swiper, GSAP
 
-## Skills
-- **Languages**: HTML/CSS, JavaScript, PHP(WordPress)
-- **Library**: Swiper, GSAP, Three.js
-- **Frameworks**: Next.js, TailwindCSS, Sass
-- **Desing**: baner, WEB Design, poster, logo
-- **Tools**: Git, VS Code, Figma, Photoshop, Illustrator
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zizi4n5&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5" />
+</a>
+
+
 
 
 <!--
