@@ -4,12 +4,9 @@ I'm a graphic desinger and coder
 
 ## Tech Stack
 - **Lnguage**<br>
-<div>
-  ![](https://skillicons.dev/icons?i=html)<span>
-  ![](https://skillicons.dev/icons?i=css)<span>
-  ![](https://skillicons.dev/icons?i=js)<span>
-  ![](https://skillicons.dev/icons?i=php)<span>
-</div>
+  ![](https://skillicons.dev/icons?i=html)  ![](https://skillicons.dev/icons?i=css)
+  ![](https://skillicons.dev/icons?i=js)
+  ![](https://skillicons.dev/icons?i=php)
 
 - **Library & FrameWork**<br>
 
