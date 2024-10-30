@@ -1,5 +1,5 @@
 # About me
-My name is Shin
+My name is Shin<br>
 I'm a graphic desinger and coder
 
 ## Tech Stack
