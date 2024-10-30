@@ -1,4 +1,4 @@
-# About me
+# About me 👈
 My name is Shin<br>
 I'm a graphic desinger and coder
 
