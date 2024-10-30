@@ -5,6 +5,7 @@ I'm a graphic desinger and coder
 ## Tech Stack
 - **Lnguage**<br>
 
+![](https://skillicons.dev/icons?i=html)　![](https://skillicons.dev/icons?i=css)
 ![](https://skillicons.dev/icons?i=html,css,js,php)
 - **Library & FrameWork**<br>
 
