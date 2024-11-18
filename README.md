@@ -3,15 +3,12 @@ My name is Shin<br>
 I'm a graphic desinger and coder
 
 ## Tech Stack
-- **Lnguage**<br>
+- **Development**<br>
 
 ![](https://skillicons.dev/icons?i=html)　![](https://skillicons.dev/icons?i=css)　![](https://skillicons.dev/icons?i=js)　![](https://skillicons.dev/icons?i=php)
-
-- **Library & FrameWork**<br>
-
 ![](https://skillicons.dev/icons?i=threejs)　![](https://skillicons.dev/icons?i=sass)　![](https://skillicons.dev/icons?i=tailwind)　![](https://skillicons.dev/icons?i=wordpress)　![](https://skillicons.dev/icons?i=nextjs)　![](https://skillicons.dev/icons?i=astro)
 
-- **Tool**<br>
+- **Design**<br>
 
 ![](https://skillicons.dev/icons?i=figma)　![](https://skillicons.dev/icons?i=ps)　![](https://skillicons.dev/icons?i=ai)
 
