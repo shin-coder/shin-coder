@@ -5,7 +5,7 @@ I'm a graphic desinger and coder
 ## Tech Stack
 - **Development**<br>
 
-![](https://skillicons.dev/icons?i=html)　 ![](https://skillicons.dev/icons?i=css)　 ![](https://skillicons.dev/icons?i=js)  ![](https://skillicons.dev/icons?i=ts)　 ![](https://skillicons.dev/icons?i=php)　 ![](https://skillicons.dev/icons?i=threejs)　 ![](https://skillicons.dev/icons?i=sass)　 ![](https://skillicons.dev/icons?i=tailwind)　 ![](https://skillicons.dev/icons?i=wordpress)　 ![](https://skillicons.dev/icons?i=nextjs)　 ![](https://skillicons.dev/icons?i=astro)  ![](https://skillicons.dev/icons?i=vite)
+![](https://skillicons.dev/icons?i=html)　 ![](https://skillicons.dev/icons?i=css)　 ![](https://skillicons.dev/icons?i=js)　 ![](https://skillicons.dev/icons?i=ts)　 ![](https://skillicons.dev/icons?i=php)　 ![](https://skillicons.dev/icons?i=threejs)　 ![](https://skillicons.dev/icons?i=sass)　 ![](https://skillicons.dev/icons?i=tailwind)　 ![](https://skillicons.dev/icons?i=wordpress)　 ![](https://skillicons.dev/icons?i=nextjs)　 ![](https://skillicons.dev/icons?i=astro)  ![](https://skillicons.dev/icons?i=vite)
 
 - **Design**<br>
 
