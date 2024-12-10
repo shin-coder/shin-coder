@@ -1,6 +1,6 @@
 # About me 👈
-My name is Shin<br>
-I'm a graphic desinger and coder
+My name is Shin!<br>
+I'm a graphic desinger and coder.
 
 ## Tech Stack
 - **Development**<br>
