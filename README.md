@@ -13,7 +13,7 @@ My goal is to focus on CI/CD development to build more efficient and automated d
 
 ![](https://skillicons.dev/icons?i=figma)　 ![](https://skillicons.dev/icons?i=ps)　 ![](https://skillicons.dev/icons?i=ai)　 ![](https://skillicons.dev/icons?i=xd)
 
-## About Me
+## State of Use
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=shin-coder&count_private=true&theme=github_dark" />
 </a>
