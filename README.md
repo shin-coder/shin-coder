@@ -1,6 +1,6 @@
 # About me 👈
 My name is Shin!<br>
-I'm a graphic desinger and coder.<br>
+I'm a graphic designer and coder.<br>
 I am studying React and other modern technologies to enhance my development skills. <br>
 My goal is to focus on CI/CD development to build more efficient and automated development processes.
 
